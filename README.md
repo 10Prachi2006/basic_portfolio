@@ -1,7 +1,7 @@
 A basic Portfolio 
 
 
-Using HTML, CSS#, and JavaScript(ES6+)
+Using HTML, CSS3, and JavaScript(ES6+)
 
 
 
